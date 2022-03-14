@@ -19,7 +19,7 @@ SSID:
   - name: MyCompany_clustomers
     number: 4
     state: present
-    enabled: true
+    enabled: false
     auth_mode: psk
     encryption_mode: wpa
     psk: ENCRYPTED!
