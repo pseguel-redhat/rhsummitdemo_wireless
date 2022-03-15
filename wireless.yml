@@ -1,6 +1,6 @@
 ---
-Org_Name: Casa
-Net_Name: Meraki Wireless
+Org_Name: DevNet Sandbox
+Net_Name: DNSMB1-cxxxxlcisco.com-xxxxxsyahoo.com
 SSID:
   - name: MyCompany_employees
     number: 2
