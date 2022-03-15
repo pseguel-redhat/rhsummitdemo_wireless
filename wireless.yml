@@ -5,14 +5,14 @@ SSID:
   - name: MyCompany_internal
     number: 2
     state: present
-    enabled: true
+    enabled: false
     auth_mode: psk
     encryption_mode: wpa
     psk: ENCRYPTED!
   - name: MyCompany_external
     number: 3
     state: present
-    enabled: true
+    enabled: false
     auth_mode: psk
     encryption_mode: wpa
     psk: ENCRYPTED!
