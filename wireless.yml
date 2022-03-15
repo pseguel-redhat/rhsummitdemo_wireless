@@ -2,21 +2,21 @@
 Org_Name: DevNet Sandbox
 Net_Name: DNSMB1-cxxxxlcisco.com-xxxxxsyahoo.com
 SSID:
-  - name: MyCompany_A
+  - name: MyCompany_customers
     number: 1
     state: present
     enabled: true
     auth_mode: psk
     encryption_mode: wpa
     psk: ENCRYPTED!
-  - name: MyCompany_B
+  - name: MyCompany_internal
     number: 2
     state: present
     enabled: true
     auth_mode: psk
     encryption_mode: wpa
     psk: ENCRYPTED!
-  - name: MyCompany_C
+  - name: MyCompany_contractors
     number: 3
     state: present
     enabled: true
