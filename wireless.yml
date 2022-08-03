@@ -2,7 +2,7 @@
 Org_Name: DevNet Sandbox
 Net_Name: DNSMB1-pxxxxxxlredhat.com
 SSID:
-  - name: MyCompany_customers
+  - name: MyCompany_clustomers
     number: 1
     state: present
     enabled: true
